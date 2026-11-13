@@ -1,6 +1,6 @@
 extends CharacterBody2D
 
-@export var velocidad = 300.0
+@export var velocidad = 400.0
 
 func _physics_process(delta):
 	# Obtiene la dirección del teclado (flechas o WASD)
